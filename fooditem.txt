@@ -1,0 +1,5 @@
+1|Pork Chop|8.50|Cooked with premium black pork and highest quality potato shipped from america
+2|Beef Wellington|15.00|Highest quality beef, cooked to perfection
+3|Bah Gu Teh|8.00|Accompanied with highest quality rice grain and is boiled in pork broth for over 24hrs
+4|Fish and Chips|11.00|Dory fish from Australia together with truffle seasoned chips
+5|Duck Rice|8.00|Medium rare Duck breast with our local style seasoned rice to accompany the duck
